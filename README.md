@@ -1,11 +1,9 @@
 <!-- <h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/c4b99f72-c7c2-47c4-90a7-866fecf9a417" width="30"/> Hi I'm Rakib</h2> -->
 <h1><img src="https://github.com/cryptic91/cryptic91/assets/91222781/43de1015-822c-41d2-8880-cce3d7668afe" height="50" width="50"/> Hi I'm Rakib</h1>
 
-<h4>I'm from <b>Dhaka, Bangladesh</b> <img src="https://github.com/cryptic91/cryptic91/assets/91222781/a5c21e0f-7b9a-4f7a-bb24-a47606823e6f" height="13" width="18"/> </h4>
 
-Hi, I'm [Md. Rakibul Islam Shanto](https://www.linkedin.com/in/md-rakibul-islam-shanto-051767308/), an enthusiastic Web Developer.  I am a quick learner with an innovative mind and good at teamwork. I have a good speed in coding.
-
-
+Assalamu Alaikum, I'm [Md. Rakibul Islam Shanto](https://www.linkedin.com/in/md-rakibul-islam-shanto-051767308/), an enthusiastic Web Developer.  I am a quick learner with an innovative mind and good at teamwork. I have a good speed in coding.
+<p>I'm from <b>Dhaka, Bangladesh</b> <img src="https://github.com/cryptic91/cryptic91/assets/91222781/a5c21e0f-7b9a-4f7a-bb24-a47606823e6f" height="13" width="18"/> </p>
 
 
 <h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/c4b99f72-c7c2-47c4-90a7-866fecf9a417" width="30"/> Tech Stack: </h2>
