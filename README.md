@@ -6,14 +6,18 @@ Assalamu Alaikum, I'm [Md. Rakibul Islam Shanto](https://www.linkedin.com/in/md-
 <p>I'm from <b>Dhaka, Bangladesh</b> <img src="https://github.com/cryptic91/cryptic91/assets/91222781/a5c21e0f-7b9a-4f7a-bb24-a47606823e6f" height="13" width="18"/> </p>
 
 
+
+
 <h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/c4b99f72-c7c2-47c4-90a7-866fecf9a417" width="36"/> Tech Stack: </h2>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-1967D2?logo=firebase&logoColor=white")
  
 
-<h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/05847e7a-84b5-4e6f-89e4-ed7769642889" width="40"/> Stats: </h2>
 
+
+
+<h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/05847e7a-84b5-4e6f-89e4-ed7769642889" width="40"/> Stats: </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cryptic91&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="170" alt="stats graph"  />
@@ -29,8 +33,33 @@ Assalamu Alaikum, I'm [Md. Rakibul Islam Shanto](https://www.linkedin.com/in/md-
 
 
 
-## 🌐 Socials:
+
+
+<h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/c7fb8af8-4d59-424b-9656-502e9fa8ee6f" width="30"/> Socials: </h2>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-rakibul-islam-shanto-051767308/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rakibul1091shanto/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shanto_91/)  
+
+
+
+
+
+<!-- Graph-->
+<h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/3b956e99-b3aa-461c-b827-bc8823c66cb0" width="35"/> Stats: </h2>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cryptic91&theme=2077)
+
+<!-- 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cryptic91&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cryptic91&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cryptic91&theme=2077&) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cryptic91&theme=2077&utcOffset=8)
+
+-->
+
+</div>
+
 
 
 
