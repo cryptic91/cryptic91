@@ -1,17 +1,11 @@
-<!--   ✨ HEADER WITH ANIMATED TYPING EFFECT ✨   -->
+<!--   ✨ HEADER ✨   -->
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rakib%20%7C%20cryptic91&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=140&section=header&text=Rakib&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer&descAlignY=68&descSize=16" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Assalamu+Alaikum+%F0%9F%91%8B;Welcome+to+my+corner+of+GitHub;I+build+things+that+ship+%F0%9F%9A%80;Always+learning%2C+always+building" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Assalamu+Alaikum+%F0%9F%91%8B;Welcome+to+my+corner+of+GitHub;I+build+things+that+ship+%F0%9F%9A%80;Always+learning%2C+always+building" alt="Typing SVG"/>
   </a>
-
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=cryptic91&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/cryptic91?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="followers"/>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-00d9ff?style=for-the-badge&labelColor=0d1117" alt="focus"/>
 
 </div>
 
@@ -20,16 +14,16 @@
 <!--   ✨ ABOUT ME ✨   -->
 ### 👋 About Me
 
-I'm **MD Rakibul Islam Shanto** — a software engineer from Bangladesh 🇧🇩 who loves building things people actually use. Quick learner, calm under pressure, and curious by default. Started my coding journey with **C/C++**, now spending most days shipping full-stack apps and exploring AI.
+I'm **MD Rakibul Islam Shanto** — a software engineer from Bangladesh 🇧🇩 who loves building things people actually use. Quick learner, calm under pressure, and curious by default. Started my coding journey with **C/C++**, now spending most days shipping web apps and exploring AI.
 
 **Quick Facts:**
 
-- 🔭 &nbsp; Currently building **Front Bondhu** & **Barakah**
+- 🔭 &nbsp; Currently building **Deal-Bondhu** & **Barakah**
 - 🌱 &nbsp; Diving deeper into **AI & Deep Learning**
 - ⚡ &nbsp; Thesis: *Brain Tumor Segmentation using CNN + GNN*
 - 🎮 &nbsp; First love: **C / C++**
-- 🚀 &nbsp; Daily driver: **Next.js + Node.js + MongoDB**
-- 💡 &nbsp; Motto: *"Code. Learn. Ship. Repeat."*
+- 🚀 &nbsp; Daily driver: **Next.js + Node.js + Python**
+- 💡 &nbsp; Motto: *"Learn. Code. Ship. Repeat."*
 
 ---
 
@@ -67,7 +61,7 @@ I'm **MD Rakibul Islam Shanto** — a software engineer from Bangladesh 🇧🇩
 </tr>
 <tr>
 <td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" style="background:white;border-radius:50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
   <br/><sub><b>Next.js</b></sub>
 </td>
 <td align="center" width="96">
@@ -144,7 +138,7 @@ I'm **MD Rakibul Islam Shanto** — a software engineer from Bangladesh 🇧🇩
 ---
 
 <!--   ✨ 3D CONTRIBUTION CALENDAR ✨   -->
-### 🧊 3D Contribution Calendar
+### 🧊 My Coding Universe
 
 <div align="center">
 
@@ -152,23 +146,23 @@ I'm **MD Rakibul Islam Shanto** — a software engineer from Bangladesh 🇧🇩
 
 </div>
 
-> 💡 To enable this 3D contribution graph, set up the GitHub Action below (one-time setup).
-
 ---
 
-<!--   ✨ SOCIALS ✨   -->
-### 🌐 Find Me Online
+<!--   ✨ SOCIALS — ANIMATED GIF STYLE ✨   -->
+### 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/md-rakibul-islam-shanto-051767308/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/md-rakibul-islam-shanto-051767308/" target="_blank">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyjT9tNc/giphy.gif" alt="LinkedIn" width="80"/>
 </a>
-<a href="https://www.facebook.com/rakibul1091shanto/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/rakibul1091shanto/" target="_blank">
+  <img src="https://media.giphy.com/media/cgUtKjadOH7e3svebW/giphy.gif" alt="Facebook" width="80"/>
 </a>
-<a href="https://www.instagram.com/shanto_91/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/shanto_91/" target="_blank">
+  <img src="https://media.giphy.com/media/PkFcLF7eUk2HD9oQYV/giphy.gif" alt="Instagram" width="80"/>
 </a>
 
 </div>
@@ -178,6 +172,8 @@ I'm **MD Rakibul Islam Shanto** — a software engineer from Bangladesh 🇧🇩
 <!--   ✨ FOOTER ✨   -->
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=fff&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%"/>
+
+  <sub><i>"Code. Learn. Ship. Repeat."</i> 🚀</sub>
 
 </div>
