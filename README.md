@@ -12,7 +12,8 @@
 <br/>
 
 <!--   ✨ ABOUT ME ✨   -->
-### 👋 About Me
+
+<h3><img src="https://github.com/cryptic91/cryptic91/assets/91222781/43de1015-822c-41d2-8880-cce3d7668afe" height="50" width="50"/> About Me</h3>
 
 I'm **MD Rakibul Islam Shanto** — a software engineer from Bangladesh 🇧🇩 who loves building things people actually use. Quick learner, calm under pressure, and curious by default. Started my coding journey with **C/C++**, now spending most days shipping web apps and exploring AI.
 
@@ -28,7 +29,7 @@ I'm **MD Rakibul Islam Shanto** — a software engineer from Bangladesh 🇧🇩
 ---
 
 <!--   ✨ TECH STACK ✨   -->
-### 🛠️ My Arsenal
+<h3><img src="https://github.com/cryptic91/cryptic91/assets/91222781/c4b99f72-c7c2-47c4-90a7-866fecf9a417" width="36"/> My Arsenal</h3>
 
 <div align="center">
 
@@ -118,62 +119,42 @@ I'm **MD Rakibul Islam Shanto** — a software engineer from Bangladesh 🇧🇩
 ---
 
 <!--   ✨ STATS ✨   -->
-### 📊 The Numbers
+
+<h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/05847e7a-84b5-4e6f-89e4-ed7769642889" width="40"/> Stats: </h2>
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptic91&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptic91&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=cryptic91&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats"/>
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=cryptic91&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=cryptic91&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptic91&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="170" alt="languages graph"  />
 </div>
+
+
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=cryptic91&theme=highcontrast&hide_border=false)<br/> -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptic91&theme=highcontrast&hide_border=false" height="200" alt="streak graph"  />
+</div>
+
 
 ---
 
-<!--   ✨ 3D CONTRIBUTION CALENDAR ✨   -->
-### 🧊 My Coding Universe
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/cryptic91/cryptic91/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
-
-</div>
-
----
 
 <!--   ✨ SOCIALS — ANIMATED GIF STYLE ✨   -->
-### 🌐 Let's Connect
+
+<h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/c7fb8af8-4d59-424b-9656-502e9fa8ee6f" width="30"/> Let's Connect</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-rakibul-islam-shanto-051767308/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rakibul1091shanto/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shanto_91/)  
+<br/>
+
+---
+
+
+<!--   ✨ 3D CONTRIBUTION CALENDAR ✨   -->
+<h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/3b956e99-b3aa-461c-b827-bc8823c66cb0" width="35"/> My Coding Universe</h2>
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/md-rakibul-islam-shanto-051767308/" target="_blank">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyjT9tNc/giphy.gif" alt="LinkedIn" width="80"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/rakibul1091shanto/" target="_blank">
-  <img src="https://media.giphy.com/media/cgUtKjadOH7e3svebW/giphy.gif" alt="Facebook" width="80"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/shanto_91/" target="_blank">
-  <img src="https://media.giphy.com/media/PkFcLF7eUk2HD9oQYV/giphy.gif" alt="Instagram" width="80"/>
-</a>
-
+  <img src="https://raw.githubusercontent.com/cryptic91/cryptic91/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="70%"/>
 </div>
-
-<br/>
 
 <!--   ✨ FOOTER ✨   -->
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%"/>
-
   <sub><i>"Code. Learn. Ship. Repeat."</i> 🚀</sub>
-
 </div>
