@@ -1,83 +1,183 @@
-<!-- <h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/c4b99f72-c7c2-47c4-90a7-866fecf9a417" width="30"/> Hi I'm Rakib</h2> -->
-<h1><img src="https://github.com/cryptic91/cryptic91/assets/91222781/43de1015-822c-41d2-8880-cce3d7668afe" height="50" width="50"/> Hi I'm Rakib</h1>
-
-
-Assalamu Alaikum, I'm [MD Rakibul Islam Shanto](https://www.linkedin.com/in/md-rakibul-islam-shanto-051767308/), a thinker and adaptive Engineer.  I am a quick learner with an innovative mind and good at teamwork. I have a calm mindset in an urgent situation.
-<p>I'm from <b>Bangladesh</b> <img src="https://github.com/cryptic91/cryptic91/assets/91222781/a5c21e0f-7b9a-4f7a-bb24-a47606823e6f" height="13" width="18"/> </p>
-
-
-
-
-<h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/c4b99f72-c7c2-47c4-90a7-866fecf9a417" width="36"/> Tech Stack: </h2>
-
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-1967D2?logo=firebase&logoColor=white")
- 
-
-
-
-
-<h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/05847e7a-84b5-4e6f-89e4-ed7769642889" width="40"/> Stats: </h2>
-
+<!--   ✨ HEADER WITH ANIMATED TYPING EFFECT ✨   -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptic91&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptic91&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="170" alt="languages graph"  />
-</div>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rakib%20%7C%20cryptic91&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Assalamu+Alaikum+%F0%9F%91%8B;Welcome+to+my+corner+of+GitHub;I+build+things+that+ship+%F0%9F%9A%80;Always+learning%2C+always+building" alt="Typing SVG"/>
+  </a>
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=cryptic91&theme=highcontrast&hide_border=false)<br/> -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptic91&theme=highcontrast&hide_border=false" height="200" alt="streak graph"  />
-</div>
-
-
-
-
-
-
-<h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/c7fb8af8-4d59-424b-9656-502e9fa8ee6f" width="30"/> Socials: </h2>
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-rakibul-islam-shanto-051767308/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rakibul1091shanto/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shanto_91/)  
-
-
-
-
-
-<!-- Graph-->
-<h2><img src="https://github.com/cryptic91/cryptic91/assets/91222781/3b956e99-b3aa-461c-b827-bc8823c66cb0" width="35"/> Stats: </h2>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cryptic91&theme=2077)
-
-<!-- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cryptic91&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cryptic91&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cryptic91&theme=2077&) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cryptic91&theme=2077&utcOffset=8)
-
--->
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=cryptic91&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/cryptic91?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="followers"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-00d9ff?style=for-the-badge&labelColor=0d1117" alt="focus"/>
 
 </div>
 
+<br/>
 
+<!--   ✨ ABOUT ME ✨   -->
+### 👋 About Me
 
+I'm **MD Rakibul Islam Shanto** — a software engineer from Bangladesh 🇧🇩 who loves building things people actually use. Quick learner, calm under pressure, and curious by default. Started my coding journey with **C/C++**, now spending most days shipping full-stack apps and exploring AI.
 
+**Quick Facts:**
 
+- 🔭 &nbsp; Currently building **Front Bondhu** & **Barakah**
+- 🌱 &nbsp; Diving deeper into **AI & Deep Learning**
+- ⚡ &nbsp; Thesis: *Brain Tumor Segmentation using CNN + GNN*
+- 🎮 &nbsp; First love: **C / C++**
+- 🚀 &nbsp; Daily driver: **Next.js + Node.js + MongoDB**
+- 💡 &nbsp; Motto: *"Code. Learn. Ship. Repeat."*
 
+---
 
-<!--
+<!--   ✨ TECH STACK ✨   -->
+### 🛠️ My Arsenal
 
-**cryptic91/cryptic91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/>
+  <br/><sub><b>C</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
+  <br/><sub><b>C++</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+  <br/><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+  <br/><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+  <br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+  <br/><sub><b>React</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" style="background:white;border-radius:50%;"/>
+  <br/><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind"/>
+  <br/><sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+  <br/><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express"/>
+  <br/><sub><b>Express</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
+  <br/><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+  <br/><sub><b>MySQL</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
+  <br/><sub><b>TensorFlow</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
+  <br/><sub><b>PyTorch</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+  <br/><sub><b>NumPy</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+  <br/><sub><b>Pandas</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+  <br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase"/>
+  <br/><sub><b>Firebase</b></sub>
+</td>
+</tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<!--   ✨ STATS ✨   -->
+### 📊 The Numbers
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=cryptic91&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptic91&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=cryptic91&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats"/>
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=cryptic91&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
+
+</div>
+
+---
+
+<!--   ✨ 3D CONTRIBUTION CALENDAR ✨   -->
+### 🧊 3D Contribution Calendar
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/cryptic91/cryptic91/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+
+</div>
+
+> 💡 To enable this 3D contribution graph, set up the GitHub Action below (one-time setup).
+
+---
+
+<!--   ✨ SOCIALS ✨   -->
+### 🌐 Find Me Online
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/md-rakibul-islam-shanto-051767308/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/rakibul1091shanto/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/shanto_91/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<!--   ✨ FOOTER ✨   -->
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=fff&fontAlignY=70" width="100%"/>
+
+</div>
