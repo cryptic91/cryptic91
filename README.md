@@ -19,7 +19,7 @@ I'm **MD Rakibul Islam Shanto** — a software engineer from Bangladesh 🇧🇩
 
 **Quick Facts:**
 
-- 🔭 &nbsp; Currently building **Deal-Bondhu** & **Barakah**
+- 🔭 &nbsp; Currently building **To-DO**, **Bondhu** & **Barakah**
 - 🌱 &nbsp; Diving deeper into **AI & Deep Learning**
 - ⚡ &nbsp; Thesis: *Brain Tumor Segmentation using CNN + GNN*
 - 🎮 &nbsp; First love: **C / C++**
